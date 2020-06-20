@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "caneta BIC Preta",
+      "preço": 5.89,
+      "email": "Bruno-kk@hotmail.com",
+      "senha": "Bruno123!"
+    },
+    {
+      "id": 2,
+      "nome": "notebook-mac",
+      "preço": 800
+    },
+    {
+      "id": 3,
+      "nome": "Samsumg S20 Gamer",
+      "preço": 2000
+    },
+    {
+      "nome": "Geladeira",
+      "preço": 2500,
+      "id": 4
+    },
+    {
+      "id": "6",
+      "nome": "Toysinho",
+      "preço": "300"
+    },
+    {
+      "email": "Bruno-kk@hotmail.com",
+      "senha": "Bruno123!",
+      "id": "0fTwS-r"
+    },
+    {
+      "login": "Bruno-kk@hotmail.com",
+      "senha": "Bruno123!",
+      "id": "aMlnXCw"
+    },
+    {
+      "login": "Bruno-kk@hotmail.com",
+      "senha": "Bruno123!",
+      "id": "6j-ccSR"
+    }
+  ]
+}
